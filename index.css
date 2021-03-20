@@ -1,11 +1,16 @@
 body {
     padding-top: 5rem;
-  }
+}
 
-
-  
-  .font-noto{
+.font-noto {
     font-family: 'Noto Sans JP', sans-serif;
-    
+}
 
-  }
+body {
+    padding-top: 5rem;
+}
+
+.underline {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
