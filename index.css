@@ -38,4 +38,9 @@ body {
   position: absolute;
   top: 3px;
   left: -15px; */
-}
+/* } */
+
+.one {
+  max-width:1%;
+  margin: auto;
+  text-align: left;
