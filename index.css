@@ -41,6 +41,7 @@ body {
 /* } */
 
 .one {
-  max-width:1%;
+  max-width:240px;
   margin: auto;
   text-align: left;
+}
