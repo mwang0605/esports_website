@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteCond %{index.html} !-d
+RewriteCond %{index.html}\.html -f
+RewriteRule .* $0.html
